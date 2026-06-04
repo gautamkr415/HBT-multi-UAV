@@ -9,8 +9,6 @@ for review purposes.
 This repository implements the **HBT construction** described in Section III of the
 manuscript: the greedy plane-partitioning warm start (Algorithm 1) and the genetic
 algorithm that minimizes the path cost (Eq. (9)) to produce the final HBT. 
-[STATE EXPLICITLY: whether the decentralized scheduling policy of Section IV and 
-the figure-generation scripts are included, or whether this repo is construction-only.]
 
 ## Requirements
 
